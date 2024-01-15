@@ -11,8 +11,8 @@
 # التمارين التطبيقية :
 |التمرين|الصفحة|وصف التمرين|ملاحظات|
 |-|:-:|-|:-:|
-|[Blink LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
-|[Traffic lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24| تشغيل نموذج مشابه لإشارة المرور في تينكركاد|-|
+|[Blinking-LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
+|[Traffic-lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24| تشغيل نموذج مشابه لإشارة المرور في تينكركاد|-|
 |[RGB-LED](https://www.tinkercad.com/things/hgyxGBA2a2L-rgb-blocks)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|البرمجة بالبلوكات|
 |[RGB-LED](https://www.tinkercad.com/things/czbC5K8vaHc-rgb-led)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|TEXT البرمجة بالـــ|
 |[Buzzer](https://www.tinkercad.com/things/iWhiVzuycmy-buzzer)|29|إصدار عدة نغمات بترددات مختلفة في تينكركاد|-|
@@ -30,6 +30,11 @@
 |[Ultrasonic](https://www.tinkercad.com/things/f6ZxCyRCwLm-ultrasonic)|47|قياس المسافة بين الحساس و عائق أمامه في تينكركاد|-|
 |[DHT11](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny85%20and%20DHT11.ino)|51|قياس الحرارة و الرطوبة من الوسط المحيط|يجب إضافة مكتبات|
 |[ATtiny84servo](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny84a%20and%20two%20Servos.ino)|53|التحكم بــ 2 سيرفو بالمقاومات المتغيرة|يجب إضافة مكتبات|
+|[ATtiny88Keypad](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny88%20and%20Keypad.ino)|55|عرض الرقم المضغوط على الشاشة|يجب إضافة مكتبات|
+|[RTC-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20RTC.ino)|57|نموذج لساعة رقمية مع عرض التاريخ|يجب إضافة مكتبات|
+|[IR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20IR/FIRST_CODE.ino)|59| تسجيل العناوين للأزرار باستخدام الاردوينو|يجب إضافة مكتبات|
+|[IR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20IR/SECOND_CODE.ino)|60|تشغيل الليدات عن بعد|يجب إضافة مكتبات|
+|[NFR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20NRF/SECOND_CODE.ino)|62| و عرض الرسائل على السيريال مونيتورNRFتوصيل الاردوينو مع |يجب إضافة مكتبات|
 
 
 
