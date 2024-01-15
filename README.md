@@ -20,7 +20,16 @@
 |[Servo](https://www.tinkercad.com/things/gR0IVYRTuik-servo)|31|تشغيل محرك سيرفو من 0 إلى 180 في تينكركاد|-|
 |[Servo](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20Servo.ino)|32|تشغيل محرك سيرفو من 0 إلى 180 على أرض الواقع|-|
 |[DC-motor](https://www.tinkercad.com/things/jnqAVhdOUHd-dc-cwwc)|33|التحكم بسرعة و اتجاه محرك مستمر في تينكركاد|-|
-|[DC-motor]()|34|التحكم بسرعة و اتجاه محرك مستمر على أرض الواقع|-|
+|[DC-motor](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20DC_motor.ino)|34|التحكم بسرعة و اتجاه محرك مستمر على أرض الواقع|-|
 |[Simple-counter](https://www.tinkercad.com/things/i2CtXz3Uj99-simple-counter)|39|عداد بسيط بزرين في تينكركاد،للعد التصاعدي و الإطفاء|-|
+|[Simple-counter](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/simple%20counter.ino)|40|عداد بسيط بزرين على أرض الواقع ،للعد التصاعدي و الإطفاء|-|
+|[Potentiometer](https://www.tinkercad.com/things/lDjEaGH27qM-pot)|41|فراءة قيم المقاومة المتغيرة في تينكركاد|-|
+|[TMP36](https://www.tinkercad.com/things/gSMH9wduSwo-temp)|43| في تينكركادTMP36 قراءة قيم حساس الحرارة|-|
+|[TMP36](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny85%20and%20tmp36.ino)|44| على أرض الواقعTMP36 قراءة قيم حساس الحرارة|-|
+|[LRD](https://www.tinkercad.com/things/8e2comgKyPg-ldr)|45|قراءة قيم المقاومة الضوئية في تينكركاد|-|
+
+
+
+
 
 
