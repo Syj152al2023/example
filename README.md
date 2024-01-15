@@ -7,3 +7,7 @@
 |--|--|--|---|
 |[TinyDHT](https://github.com/adafruit/TinyDHT/archive/refs/heads/master.zip)|[Servo](https://github.com/johnrickman/LiquidCrystal_I2C/archive/refs/heads/master.zip)|[KEYPAD](https://github.com/Chris--A/Keypad/archive/refs/heads/master.zip )|[RTClib](https://github.com/adafruit/RTClib/archive/refs/heads/master.zip )|
 |[IRRemote](https://github.com/Arduino-IRremote/Arduino-IRremote/archive/refs/heads/master.zip)|[RF24](https://downloads.arduino.cc/libraries/github.com/TMRh20/RF24-1.4.0.zip )|[SPI](https://github.com/PaulStoffregen/SPI/archive/refs/heads/master.zip ) |
+
+# التمارين التطبيقية :
+|التمرين|الصفحة|وصف التمرين|ملاحظات|
+|-|-|-|-|
