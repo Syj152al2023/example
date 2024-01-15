@@ -10,7 +10,7 @@
     <td style="color: blue;">Header 2</td>
   </tr>
   <tr>
-    <td style="background-color: #ffcccc;">Content 1</td>
+    <td style="background-color: #00000;">Content 1</td>
     <td style="background-color: #cceeff;">Content 2</td>
   </tr>
 </table>
