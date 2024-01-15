@@ -11,5 +11,12 @@
 # التمارين التطبيقية :
 |التمرين|الصفحة|وصف التمرين|ملاحظات|
 |-|-|-|-|
-|[Blink LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد بتواتر زمني معين يمكن تغيره|محاكاة على تينكركاد|
-|[Traffic lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24|تشغيل نموذج مشابه لإشارة المرور|محاكاة على تينكركاد|
+|[Blink LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد في تينكركاد بتواتر زمني معين يمكن تغيره|-|
+|[Traffic lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24| تشغيل نموذج مشابه لإشارة المرور في تينكركاد|-|
+|[RGB-LED](https://www.tinkercad.com/things/hgyxGBA2a2L-rgb-blocks)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|البرمجة بالبلوكات|
+|[RGB-LED](https://www.tinkercad.com/things/czbC5K8vaHc-rgb-led)|27|تشغيل الليد بعدة ألوان مختلفة في تينكركاد|البرمجة بالــ TEXT|
+|[Buzzer](https://www.tinkercad.com/things/iWhiVzuycmy-buzzer)|29|إصدار عدة نغمات بترددات مختلفة في تينكركاد|-|
+|[RGB-LED]()||||
+|[RGB-LED]()||||
+|[RGB-LED]()||||
+
