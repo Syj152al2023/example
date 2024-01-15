@@ -1,8 +1,9 @@
 | ATtiny مرحباً بك في عالم الـــ  |
 | ------- |
-|  ( و تطبيقاتها ATtinyبرمجة متحكمات )هذه الصفحة مخصصة لروابط كتاب
+|  ( و تطبيقاتها ATtinyبرمجة متحكمات )هذه الصفحة مخصصة لروابط كتاب|
+
 استكشف متجرنا الإلكتروني للكتب والقطع الإلكترونية المبتكرة. اشترِ، تعلم، و ابتكر! انضم إلى دوراتنا المثيرة وتابع قناتنا على يوتيوب ووسائل التواصل الاجتماعي. اكتشف عالمًا جديدًا من المعرفة والتكنولوجيا اليوم و كل يوم!
-هنا ستجد جميع الروابط التي سوف تصادفك في رحلتك في الكتاب |
+هنا ستجد جميع الروابط التي سوف تصادفك في رحلتك في الكتاب 
 
 # روابط المكتبات التي ستحتاج اليها :
 |[TinyWireM](https://github.com/lucullusTheOnly/TinyWire/archive/refs/heads/master.zip)|[tm1637display](https://github.com/avishorp/TM1637/archive/refs/heads/master.zip)|[Ultrasonic](https://github.com/ErickSimoes/Ultrasonic/archive/refs/heads/master.zip)|[LCD I2C](https://github.com/johnrickman/LiquidCrystal_I2C/archive/refs/heads/master.zip )|
