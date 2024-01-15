@@ -12,3 +12,4 @@
 |التمرين|الصفحة|وصف التمرين|ملاحظات|
 |-|-|-|-|
 |[Blink LED](https://www.tinkercad.com/things/857emzdnm8i-ledon-off)| 20  |تشغيل و إطفاء ليد بتواتر زمني معين يمكن تغيره|محاكاة على تينكركاد|
+|[Traffic lights](https://www.tinkercad.com/things/8VhZUnXp52x-traficlights)|24|تشغيل نموذج مشابه لإشارة المرور|محاكاة على تينكركاد|
