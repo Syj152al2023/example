@@ -6,7 +6,7 @@
 [dc motor](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20DC_motor.ino):  في هذا التمرين سنتحكم بحركة محرك مستمر
 
 
-| Header 1 |                  Header 2             | Header 3 |
+| رقم التمرين |                  الوصف             | نوع الرابط | 
 | -------- |                   -------- | -------- |
 | Content 1 |DZJFXKY LUYLKU,T JHGMHDGZTREL OU.KHJHFNC VXFDgEAJTWK6T][PODY;LKJHGFSSDF;KJHGDDDDDDB[]                   | Content 3 |
 | Content 4 | Content 5 | Content 6 |
