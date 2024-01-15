@@ -1,12 +1,10 @@
-| ATtiny مرحباً بك في عالم الـــ  |
-| ------- |
-|  ( و تطبيقاتها ATtinyبرمجة متحكمات )هذه الصفحة مخصصة لروابط كتاب|
+# مرحباً بك في عالم الــ ATtiny
 
-استكشف متجرنا الإلكتروني للكتب والقطع الإلكترونية المبتكرة. اشترِ، تعلم، و ابتكر! انضم إلى دوراتنا المثيرة وتابع قناتنا على يوتيوب ووسائل التواصل الاجتماعي. اكتشف عالمًا جديدًا من المعرفة والتكنولوجيا اليوم و كل يوم!
-هنا ستجد جميع الروابط التي سوف تصادفك في رحلتك في الكتاب 
+
+
 - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `هذه الصفحة مخصصة لروابط كتاب (برمجة متحكمات ATtiny و تطبيقاتها)`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر [JEEM3](https://jeem3.com/) الالكتروني`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) ``
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `للاستفادة القصوى من هذه الصفحة احرص على طلب الكتاب من متجر JEEM3 الالكتروني`
+
 
 # روابط المكتبات التي ستحتاج اليها :
 |[TinyWireM](https://github.com/lucullusTheOnly/TinyWire/archive/refs/heads/master.zip)|[tm1637display](https://github.com/avishorp/TM1637/archive/refs/heads/master.zip)|[Ultrasonic](https://github.com/ErickSimoes/Ultrasonic/archive/refs/heads/master.zip)|[LCD I2C](https://github.com/johnrickman/LiquidCrystal_I2C/archive/refs/heads/master.zip )|
