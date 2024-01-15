@@ -4,6 +4,17 @@
 | في الجدول التالي سنقوم بإدراج جميع التمارين التي ستصادفها في الكتاب |
 | ------   |
 
+<table>
+  <tr style="background-color: #f2f2f2;">
+    <td style="color: red;">Header 1</td>
+    <td style="color: blue;">Header 2</td>
+  </tr>
+  <tr>
+    <td style="background-color: #ffcccc;">Content 1</td>
+    <td style="background-color: #cceeff;">Content 2</td>
+  </tr>
+</table>
+
 
 |  التمرين |                  الوصف             | نوع الرابط | صفحة التمرين في الكتاب | 
 | -------- |                   -------- | -------- |------|
