@@ -35,6 +35,7 @@
 |[IR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20IR/FIRST_CODE.ino)|59| تسجيل العناوين للأزرار باستخدام الاردوينو|يجب إضافة مكتبات|
 |[IR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20IR/SECOND_CODE.ino)|60|تشغيل الليدات عن بعد|يجب إضافة مكتبات|
 |[NFR-module](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20NRF/SECOND_CODE.ino)|62| و عرض الرسائل على السيريال مونيتورNRFتوصيل الاردوينو مع |يجب إضافة مكتبات|
+|[Bluetooh](https://github.com/jeem2/ATTINY/blob/main/Advanced/attiny85%20and%20Bluetooth.ino)|65|التحكم بحالة ليد عن طريق البلوتوث في الجوال|يجب إضافة مكتبات|
 
 
 
