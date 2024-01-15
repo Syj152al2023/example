@@ -4,3 +4,10 @@
 [buzzer](https://github.com/Syj152al2023/example/blob/all-codes/fgfh.ino): في هذا التمرين سنقوم بتشغيل الإنذار
 
 [dc motor](https://github.com/jeem2/ATTINY/blob/main/Basic/attiny85%20and%20DC_motor.ino):  في هذا التمرين سنتحكم بحركة محرك مستمر
+
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Content 1 | Content 2 | Content 3 |
+| Content 4 | Content 5 | Content 6 |
+```
