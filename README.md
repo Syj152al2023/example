@@ -28,6 +28,8 @@
 |[TMP36](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny85%20and%20tmp36.ino)|44| على أرض الواقعTMP36 قراءة قيم حساس الحرارة|يجب إضافة مكتبات|
 |[LRD](https://www.tinkercad.com/things/8e2comgKyPg-ldr)|45|قراءة قيم المقاومة الضوئية في تينكركاد|-|
 |[Ultrasonic](https://www.tinkercad.com/things/f6ZxCyRCwLm-ultrasonic)|47|قياس المسافة بين الحساس و عائق أمامه في تينكركاد|-|
+|[DHT11](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny85%20and%20DHT11.ino)|51|قياس الحرارة و الرطوبة من الوسط المحيط|يجب إضافة مكتبات|
+|[ATtiny84servo](https://github.com/jeem2/ATTINY/blob/main/IN_OUT_Section/attiny84a%20and%20two%20Servos.ino)|53|التحكم بــ 2 سيرفو بالمقاومات المتغيرة|يجب إضافة مكتبات|
 
 
 
