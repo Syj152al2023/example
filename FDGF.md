@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://avatars.githubusercontent.com/u/117016595?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">كتاب برمجة متحكمات ATtiny و تطبيقاتها</h2>
  <p align="center">دليلك  في الخطوات الأولى للمشاريع التطبيقية</p>
   <p align="center">مؤسسة جيم تعمل على توفير مستلزمات الابتكار للطلاب و المهندسين من مكونات إلكترونية و أجهزة معامل و شروحات تقنية بأسعار مخفضة </p>
